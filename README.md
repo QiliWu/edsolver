@@ -7,3 +7,4 @@ pdf_crawl.py：从csv文件中提取出物相晶胞参数信息，并保存到js
 ED_caculater.py: 具体标定算法的代码实现。
 
 具体使用请前往网站：http://www.edsolver.com/
+![EDSolver](https://github.com/QiliWu/edsolver/blob/master/edsolver.png)
